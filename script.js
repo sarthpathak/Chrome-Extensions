@@ -107,14 +107,14 @@ let projectData = [
     projectImage: "URL-shortener/images/workingimage.png",
     projectUrl: "./IT_Income_Tax_Calculator/it.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/URL-shortener",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/IT_Income_Tax_Calculator",
   },
   {
     projectName: "Key-codes",
     projectImage: "https://images.unsplash.com/photo-1560457079-9a6532ccb118?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
     projectUrl: "./KeyCodes/Index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/URL-shortener",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/KeyCodes",
   },
   {
     projectName: "Weather app",
