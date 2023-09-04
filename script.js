@@ -86,7 +86,7 @@ let projectData = [
     projectImage: "Binary_To_Decimal_converter/images/logo.png",
     projectUrl: "Binary_To_Decimal_converter/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Binary_To_Decimal_converter",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Binary_To_Decimal_converter",
   },
   {
     projectName: "QR-Generator",
@@ -136,14 +136,14 @@ let projectData = [
     projectImage: "Books_Recommendation/book.jpg",
     projectUrl: "Books_Recommendation/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Books_Recommendation",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Books_Recommendation",
   },
   {
     projectName: "Calculate Age",
     projectImage: "CalculateAge/logo.png",
     projectUrl: "CalculateAge/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Calculate%20Age",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/CalculateAge",
   },
   {
     projectName: "Movies_Recommendation",
@@ -160,7 +160,7 @@ let projectData = [
     projectImage: "BMI-Calculator/BMIExtentionWorkingImages/BMIextention.png",
     projectUrl: "BMI-Calculator/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/BMI-Calculator",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/BMI-Calculator",
   },
   {
     projectName: "Calculator",
@@ -174,21 +174,21 @@ let projectData = [
     projectImage: "Code-Launcher/images/Code-Aider-image.png",
     projectUrl: "Code-Launcher/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Code-Launcher",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Code-Launcher",
   },
   {
     projectName: "Coin-toss",
     projectImage: "Coin-toss/Coin-Toss-Images.png",
     projectUrl: "Coin-toss/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Coin-toss",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Coin-toss",
   },
   {
     projectName: "Color Picker",
     projectImage: "ColorPicker/color-picker-image.png",
     projectUrl: "Color Picker/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Color%20Picker",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/ColorPicker",
   },
  
   {
@@ -298,21 +298,21 @@ let projectData = [
     projectImage: "Country_Currency/bg.jpg",
     projectUrl: "Country_Currency/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Country_Currency",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Country_Currency",
   },
   {
     projectName: "Cheatsheet_Template",
     projectImage: "Cheatsheet_Template/copy.png",
     projectUrl: "Cheatsheet_Template/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Cheatsheet_Template",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Cheatsheet_Template",
   },
   {
     projectName: "Analog_Clock",
     projectImage: "Analog_Clock/clock.png",
     projectUrl: "Analog_Clock/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Analog_Clock",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Analog_Clock",
   },
 ];
 
