@@ -197,7 +197,7 @@ let projectData = [
       "Decimal_Hexadecimal_Converter/Decimal-Hexadecimal-Convertor-image.png",
     projectUrl: "Decimal_Hexadecimal_Converter/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Decimal_Hexadecimal_Converter",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Decimal_Hexadecimal_Converter",
   },
  
   {
@@ -205,7 +205,7 @@ let projectData = [
     projectImage: "Height-Conversion-tool/Height-Conversion-Tool-Image.png",
     projectUrl: "Height-Conversion-tool/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Height-Conversion-tool",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Height-Conversion-tool",
   },
   
   
@@ -250,7 +250,7 @@ let projectData = [
     projectImage: "Library_Website/nn.png",
     projectUrl: "Library_Website/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Library_Website",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Library_Website",
   },
   {
     projectName: "Guess_Emoji",
@@ -264,14 +264,14 @@ let projectData = [
     projectImage: "Fahrenheit_Celsius_Converter/f-to-c.png",
     projectUrl: "Fahrenheit_Celsius_Converter/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Fahrenheit_Celsius_Converter",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Fahrenheit_Celsius_Converter",
   },
   {
     projectName: "Dragon_Adventures_Game",
     projectImage: "Dragon_Adventures_Game/bg.png",
     projectUrl: "Dragon_Adventures_Game/index.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Dragon_Adventures_Game",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Dragon_Adventures_Game",
   },
   {
     projectName: "digital_clock",
@@ -284,14 +284,14 @@ let projectData = [
     projectImage: "Dictionary_Extension/dictonary_extension.png",
     projectUrl: "Dictionary_Extension/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Dictionary_Extension",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Dictionary_Extension",
   },
   {
     projectName: "Dictionary",
     projectImage: "Dictionary/logo.png",
     projectUrl: "Dictionary/popup.html",
     projectDownload:
-      "https://downgit.github.io/#/home?url=https://github.com/ridsuteri/Awesome-Chrome-Extensions/tree/main/Dictionary",
+      "https://downgit.github.io/#/home?url=https://github.com/sarthpathak/Chrome-Extensions/tree/main/Dictionary",
   },
   {
     projectName: "Country_Currency",
